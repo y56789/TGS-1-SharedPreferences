@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sessionmanagement</string>
+    <string name="nama">Nama :</string>
+    <string name="nim">Nim :</string>
+</resources>
